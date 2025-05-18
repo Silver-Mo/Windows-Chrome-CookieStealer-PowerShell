@@ -1,5 +1,5 @@
 # Parameters
-$toMail = "remotemail@gmail.com"
+$toMail = "silvermo2010@gmail.com"
 $remoteDebuggingPort = 9222
 
 # Quit chrome function
